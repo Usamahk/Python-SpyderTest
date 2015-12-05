@@ -14,15 +14,17 @@ The book can be found here:- https://github.com/CamDavidsonPilon/Probabilistic-P
 - PyMC-TextData.py
 - PyMC-StochDeter.py
 - PyMC-Challenger.py
+- separation_plot.py
+- MCMC.py
 
 #### Chapters covered so far ([X] = complete, [I] = in progress):  
 
 [X] Chapter 1 - Introduction  
 &nbsp;&nbsp;&nbsp;[X] - PyMC-TextData.py    
-[I] Chapter 2 - More PyMC  
+[X] Chapter 2 - More PyMC  
 &nbsp;&nbsp;&nbsp;[X] - PyMC-StochDeter.py  
-&nbsp;&nbsp;&nbsp;[I] - PyMC-Challenger.py  
-[ ] Chapter 3 - MCMC  
+&nbsp;&nbsp;&nbsp;[X] - PyMC-Challenger.py  
+[I] Chapter 3 - MCMC  
 [ ] Chapter 4 - The Greatest Theorem Never Told  
 [ ] Chapter 5 - Loss Functions  
 [ ] Chapter 6 - Priorities  
