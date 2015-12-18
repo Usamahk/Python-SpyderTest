@@ -4,6 +4,8 @@ Will be doing all tests from Probabalistic Programming and Bayesian Thinking for
 
 The book can be found here:- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
+Tried to build a similar code to what was gone over in the classification lecture in Andrew Ng's Machine Learning class.
+
 #### Folders:  
 - Data  
     * txtdata.csv
@@ -17,7 +19,7 @@ The book can be found here:- https://github.com/CamDavidsonPilon/Probabilistic-P
 - separation_plot.py
 - MCMC.py
 
-#### Chapters covered so far ([X] = complete, [I] = in progress):  
+#### Chapters covered so far ([X] = Complete, [I] = In Progress):  
 
 [X] Chapter 1 - Introduction  
 &nbsp;&nbsp;&nbsp;[X] - PyMC-TextData.py    
