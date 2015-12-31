@@ -6,6 +6,8 @@ The book can be found here:- https://github.com/CamDavidsonPilon/Probabilistic-P
 
 Tried to build a similar code to what was gone over in the classification lecture in Andrew Ng's Machine Learning class.
 
+Using Welch labs YouTube videos, built an iPython notebook to learn basics of neural networks in Python.
+
 #### Folders:  
 - Data  
     * txtdata.csv
@@ -17,7 +19,8 @@ Tried to build a similar code to what was gone over in the classification lectur
 - PyMC-StochDeter.py
 - PyMC-Challenger.py
 - separation_plot.py
-- MCMC.py
+- MCMC.py  
+- Neural Networks.ipynb
 
 #### Chapters covered so far ([X] = Complete, [I] = In Progress):  
 
